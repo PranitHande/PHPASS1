@@ -1,0 +1,29 @@
+<?xml-version ="1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "item.css"?>
+<Items>
+	<Item>
+		<ItemName>Laptop</ItemName>
+		<ItemPrice>50000</ItemPrice>
+		<Quantity>2</Quantity>
+	</Item>
+	<Item>
+		<ItemName>Ryzen Graphics Card</ItemName>
+		<ItemPrice>27000</ItemPrice>
+		<Quantity>50</Quantity>
+	</Item>
+	<Item>
+		<ItemName>Car</ItemName>
+		<ItemPrice>45000</ItemPrice>
+		<Quantity>1</Quantity>
+	</Item>
+	<Item>
+		<ItemName>Iphone</ItemName>
+		<ItemPrice>60000</ItemPrice>
+		<Quantity>6</Quantity>
+	</Item>
+	<Item>
+		<ItemName>Keyboard</ItemName>
+		<ItemPrice>100</ItemPrice>
+		<Quantity>3</Quantity>
+	</Item>
+</Items>
